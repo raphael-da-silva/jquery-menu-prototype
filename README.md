@@ -2,9 +2,9 @@
 
 Uso de prototype para fazer o controle (toggle) de um menu responsivo com Jquery.
 
-## Função construtura
+## Função construtura/prototype
 
-A função `ResponsiveMenuToggle` que recebeu funções em seu protótipe é instanciada com `new` funcionamento como uma função construtora que se comporta como uma classe. 
+A função `ResponsiveMenuToggle` que recebeu funções em seu prototype é instanciada com `new` funcionamento como uma função construtora que se comporta como uma classe. 
 
 Outro ponto foi que essa função construtura foi encapsulada em uma IIFE, ou seja, o uso de prototype/função construtura foi combinado com uma  IIFE que retorna a prototype/função construtura.
 
